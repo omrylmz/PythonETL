@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<quadium version="2.1.1">
+    <background color="#E0E0E0"/>
+    <drawing>
+        <square color="#DEC0DE" rotate="45deg">
+            <center x="15.0" y="4.93"/>
+            <dimension>10.0</dimension>
+        </square>
+        <rectangle color="#CACA00">
+            <center x="20.0" y="20.0"/>
+            <width>10.0</width>
+            <height>20.0</height>
+        </rectangle>
+        <rectangle rotate="15deg" color="#C0FFEE">
+            <center x="30.89" y="47.56"/>
+            <width>50.0</width>
+            <height>2.0</height>
+        </rectangle>
+    </drawing>
+</quadium>
